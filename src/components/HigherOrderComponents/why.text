@@ -1,0 +1,5 @@
+// To share common functionality between components
+
+HOC - Higher order component adds additional functionality to the regular component and returns the enhanced component
+
+const EnhancedComponent = higherOrderComponent(OriginalComponent)

@@ -17,7 +17,7 @@ class ConditionalRender extends Component {
         //     return <h4>Welcome Guest</h4>
         // }
 
-        // TYPE 2
+        // OR
         // if - else element 
         // let message;
         // if(this.state.isLoggedIn) {
@@ -26,7 +26,6 @@ class ConditionalRender extends Component {
         //     message = "Welcome Guest"
         // }
 
-        // TYPE 3
         // ternary 
         return (
             <div>
@@ -34,7 +33,6 @@ class ConditionalRender extends Component {
             </div>
         );
 
-        // TYPE 4
         // short circuit
         // only one condition
         // return (

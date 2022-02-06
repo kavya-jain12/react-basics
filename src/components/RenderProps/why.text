@@ -1,0 +1,1 @@
+Render props helps in sharing of code between the react components using a prop whose value is a function
